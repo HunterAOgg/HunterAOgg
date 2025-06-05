@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Hunter Ogg"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a **person**."
+  bio              : "I am a scientist with experience in next generation sequencing, non-model genomics, virology, machine learning/neural networks, and light microscopy."
   location         : "Fort Collins, Colorado, United States of America"
   email            :
   links:
@@ -127,7 +127,7 @@ author:
       # url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/HunterAOgg"
 
 # Site Footer
 footer:

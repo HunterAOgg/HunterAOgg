@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /research
+permalink: /research/
 
 hidden: false
 header:
